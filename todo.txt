@@ -1,0 +1,10 @@
+﻿Fix the Operators SideBoxExamples, they arent displayed properly and could need 
+more things as examples.
+
+Get work done on the second category. (Methods and overloading them)
+Calculator.  Maybe use BoxWriter method to draw it or something.
+
+Copy/Paste the course schedule to program.
+
+Use more hardcoding maybe, lots of text files soon.
+

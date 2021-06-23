@@ -1,0 +1,9 @@
+﻿C# operators and thier precedence closely resemble the operators in other langauges
+of the C family.
+Similar to C++, classes can overload most operators, defining or redefining the 
+behavior of the operators in contexts where the first argument of that operator 
+is an instance of that class, 
+but doing so is often discouraged
+for clarity.
+
+Operators can be grouped by thier ARITY as UNARY and BINARY

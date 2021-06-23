@@ -1,0 +1,6 @@
+﻿
+
+This program is written as practice and learning the c# language. 
+Some examples could be vague but that could be because its for my eyes only.
+
+
